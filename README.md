@@ -80,5 +80,3 @@ Edit Time Windows for any user
 
 Exit to main screen
 
-
-User 3	3333	3456	15:00–17:00
