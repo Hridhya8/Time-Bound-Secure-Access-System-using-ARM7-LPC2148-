@@ -39,6 +39,7 @@ Keil µVision
 Flash Magic
 
 🔐 Authentication Flow
+
 1️⃣ Enter User ID
 
 LCD → “Enter User ID”
