@@ -80,12 +80,5 @@ Edit Time Windows for any user
 
 Exit to main screen
 
-Admin ID = AAAA
-PIN = 9999
 
-👥 Example User Database
-User	User ID	PIN	Time Slot
-Admin	AAAA	9999	Full Access
-User 1	1111	1234	09:00–11:00
-User 2	2222	2345	12:00–14:00
 User 3	3333	3456	15:00–17:00
