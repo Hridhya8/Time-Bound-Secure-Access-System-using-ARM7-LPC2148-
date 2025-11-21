@@ -29,13 +29,16 @@ LM35 Temperature Sensor	Room temperature monitoring
 RTC (Inbuilt)	Real-time access validation
 LEDs	Access status
 Buzzer	Error / warning alerts
-Admin Activation Switch	Triple-press activation for Admin mode💾 Software & Tools
+Admin Activation Switch	Triple-press activation for Admin mode
 
+💾 Software & Tools
 Embedded C
 
 Keil µVision
 
-Flash Magic🔐 Authentication Flow
+Flash Magic
+
+🔐 Authentication Flow
 1️⃣ Enter User ID
 
 LCD → “Enter User ID”
